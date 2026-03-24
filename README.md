@@ -1,5 +1,7 @@
 # Solitaire Application (Version 1)
-<img width="256" height="256" alt="ChatGPT Image Mar 24, 2026, 07_50_03 PM" src="https://github.com/user-attachments/assets/7c982c0e-21af-4b43-954d-2f53b7cb7c68" />
+<p align="center">
+  <img width="200" src="https://github.com/user-attachments/assets/7c982c0e-21af-4b43-954d-2f53b7cb7c68" />
+</p>
 
 ## Overview
 This is a desktop Solitaire game built using C# and WPF.  
