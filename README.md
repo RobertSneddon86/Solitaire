@@ -34,5 +34,8 @@ v1.0 – Initial release
 - Rules/help screen
 - Cash-out system for Vegas mode
 
+## Notes
+- Changing difficulty or enabling Vegas Mode will only take effect after starting a new game.
+
 ## Author
 Robert Sneddon
