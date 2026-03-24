@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solitaire.Core", "Solitaire.Core\Solitaire.Core.csproj", "{661FCE96-5333-410A-9892-C65023E2789D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solitaire.UI", "Solitaire.UI\Solitaire.UI.csproj", "{37EDCCF0-1B8B-442F-9CA6-B65D391DDE22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661FCE96-5333-410A-9892-C65023E2789D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661FCE96-5333-410A-9892-C65023E2789D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661FCE96-5333-410A-9892-C65023E2789D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661FCE96-5333-410A-9892-C65023E2789D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37EDCCF0-1B8B-442F-9CA6-B65D391DDE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37EDCCF0-1B8B-442F-9CA6-B65D391DDE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37EDCCF0-1B8B-442F-9CA6-B65D391DDE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37EDCCF0-1B8B-442F-9CA6-B65D391DDE22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAAF1902-DAAF-42EC-A91B-2CEADC80E34B}
+	EndGlobalSection
+EndGlobal

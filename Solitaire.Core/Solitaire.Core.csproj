@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Nclan.Ac.RobertS.Solitaire.Core</RootNamespace>
+    <ApplicationIcon>ChatGPT Image Mar 18, 2026, 09_39_14 AM.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="ChatGPT Image Mar 18, 2026, 09_39_14 AM.ico" />
+  </ItemGroup>
+
+</Project>
