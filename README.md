@@ -18,7 +18,7 @@ The application includes gameplay features, user accounts, and a scoring system.
 ## Technologies Used
 - C#
 - WPF (Windows Presentation Foundation)
-- Microsoft Excel for player saving
+- CSV file for player saving
 
 ## How to Run
 1. Download the release from GitHub
